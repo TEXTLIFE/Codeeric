@@ -12,3 +12,4 @@
 /Users/eric/Codeeric/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
 /Users/eric/Codeeric/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
 /Users/eric/Codeeric/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
+/Users/eric/Codeeric/HelloWorld/obj/Debug/net9.0/HelloWorld.sourcelink.json
