@@ -8,9 +8,10 @@ namespace Variables
         {
             // Declare a variable
             string greeting = "Hello, World!";
+            string  name = "John Doe";
             
             // Print the variable to the console
-            Console.WriteLine(greeting);
+            Console.WriteLine(greeting + " " + name);
         }
     }
 }
