@@ -9,9 +9,10 @@ namespace Variables
             // Declare a variable
             string greeting = "Hello, World!";
             string  name = "John Doe";
+            int age = 30;
             
             // Print the variable to the console
-            Console.WriteLine(greeting + " " + name);
+            Console.WriteLine(greeting + " " + name + " is " + age + " years old.");
         }
     }
 }
